@@ -2,6 +2,8 @@ bootstrap-dropdown
 ==================
 
 To initialize a dropdown use:
+
+```
 <li class="dropdown">
     <a class="dropdown-toggle" id="drop-1" data-toggle="dropdown" href="#">
         Dropdown title
@@ -11,3 +13,4 @@ To initialize a dropdown use:
         <li>Child 1</li>
     </ul>
 </li>
+```
