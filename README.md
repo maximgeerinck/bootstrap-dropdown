@@ -3,7 +3,7 @@ bootstrap-dropdown
 
 To initialize a dropdown use:
 
-```
+```HTML
 <li class="dropdown">
     <a class="dropdown-toggle" id="drop-1" data-toggle="dropdown" href="#">
         Dropdown title
