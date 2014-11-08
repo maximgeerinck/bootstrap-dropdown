@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-dropdown",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "homepage": "https://github.com/c4d3r/bootstrap-dropdown",
   "authors": [
     "Maxim Geerinck <maximgeerinck@hotmail.com>"
@@ -11,5 +11,12 @@
     "dropdown",
     "jquery"
   ],
+  "main": [
+    "bootstrap.dropdown.css",
+    "bootstrap.dropdown.js"
+  ],
+  "dependencies": {
+    "jquery": "~1.8.0"
+  },
   "license": "GNU"
 }
